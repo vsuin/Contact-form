@@ -1,6 +1,6 @@
 <?php
 // Password for accessing the messages
-define("PASSWORD", "2008");
+define("PASSWORD", "1234");
 $authenticated = false;
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {

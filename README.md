@@ -7,7 +7,7 @@ This repository contains a **simple contact form** built using **PHP** and **HTM
 Place all files in the same directory for proper functionality:
 - 🏠 **index.php** - The main contact form where visitors submit details.
 - 📄 **msg.php** - Stores submitted messages in a table format.
-- 🔒 **view.php** - Displays stored messages; requires a password for access.
+- 🔒 **view.php** - Displays stored messages; requires a password for access. **Password - 1234**
 
 ## 📦 Installation Guide
 

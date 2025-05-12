@@ -17,7 +17,7 @@ Place all files in the same directory for proper functionality:
   ```sh
   git clone https://github.com/vsuin/Contact-form.git
   
-# Option 2: Download Manually
-# - Go to https://github.com/vsuin/Contact-form.git
-# - Click "Code" → "Download ZIP"
-# - Extract the ZIP file into your desired location
+#### Option 2: Download Manually
+#### - Go to https://github.com/vsuin/Contact-form.git
+#### - Click "Code" → "Download ZIP"
+#### - Extract the ZIP file into your desired location

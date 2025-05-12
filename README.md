@@ -9,8 +9,15 @@ Place all files in the same directory for proper functionality:
 - 📄 **msg.php** - Stores submitted messages in a table format.
 - 🔒 **view.php** - Displays stored messages; requires a password for access.
 
-## ⚙️ Installation & Usage
+## 📦 Installation Guide
 
-1. **Clone the repository** or download the files:
-   ```sh
-   git clone https://github.com/vsuin/Contact-form.git
+### 1️⃣ **Download & Place Files in Directory**
+- **Option 1: Clone the Repository** (recommended)  
+  Open a terminal or command prompt and run:  
+  ```sh
+  git clone https://github.com/vsuin/Contact-form.git
+  
+# Option 2: Download Manually
+# - Go to https://github.com/vsuin/Contact-form.git
+# - Click "Code" → "Download ZIP"
+# - Extract the ZIP file into your desired location

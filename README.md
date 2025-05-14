@@ -1,11 +1,11 @@
 # ✉️ Simple Contact Form
 
-This repository contains a **simple contact form** built using **PHP** and **HTML** to collect visitor details and send them to telegram and store in a structured table format. 📝✨
+This repository contains a **simple contact form** built using **PHP** and **HTML** to collect visitor details and store in a structured table format. 📝✨
 
 ## 📁 Project Structure
 
 Place all files in the same directory for proper functionality:
-- 🏠 **index.php** - The main contact form where visitors submit details and sends notification to admin.
+- 🏠 **index.php** - The main contact form where visitors submit details.
 - 📄 **msg.php** - Stores submitted messages in a table format. Displays stored messages; requires a password for access. **Password - 1234**
 
 ## 📦 Installation Guide
@@ -37,9 +37,9 @@ Choose one of the following methods to get the project files:
 ---
 
 ### 3️⃣ **Configure the Contact Form**
-- Open `index.php` in your file browser  
-  👉 `localhost/Contact-form/index.php`  
-- Search for telegram Bot token and Chat id  details and replace these details with yours. 📝  
+- Open `msg.php` in your file browser  
+  👉 `localhost/Contact-form/msg.php`  
+-  Change the default password 1234.📝  
 - Access it in browser.
 ---
 
